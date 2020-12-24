@@ -1,0 +1,2 @@
+.containerhamada{position:relative;width:100%;max-width:200px;max-height:200px;margin:20px}.image{display:block;height:auto;background-color:#fff}.image,.overlay{width:100%;border-radius:50%}.overlay{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;opacity:0;transition:.3s ease;background-color:#000}.containerhamada:hover .overlay{opacity:.5}.icon{color:#fff;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);text-align:center}
+/*# sourceMappingURL=6.d9db44ee.chunk.css.map */

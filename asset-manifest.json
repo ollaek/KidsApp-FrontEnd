@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/js/0.5c3d800a.chunk.js": "/KidsApp-FrontEnd/static/js/0.5c3d800a.chunk.js",
+    "static/js/0.5c3d800a.chunk.js.map": "/KidsApp-FrontEnd/static/js/0.5c3d800a.chunk.js.map",
+    "main.css": "/KidsApp-FrontEnd/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/KidsApp-FrontEnd/static/js/main.1021128e.chunk.js",
+    "main.js.map": "/KidsApp-FrontEnd/static/js/main.1021128e.chunk.js.map",
+    "runtime-main.js": "/KidsApp-FrontEnd/static/js/runtime-main.16ae6967.js",
+    "runtime-main.js.map": "/KidsApp-FrontEnd/static/js/runtime-main.16ae6967.js.map",
+    "static/js/3.7fdf9b45.chunk.js": "/KidsApp-FrontEnd/static/js/3.7fdf9b45.chunk.js",
+    "static/js/3.7fdf9b45.chunk.js.map": "/KidsApp-FrontEnd/static/js/3.7fdf9b45.chunk.js.map",
+    "static/js/4.03c51b70.chunk.js": "/KidsApp-FrontEnd/static/js/4.03c51b70.chunk.js",
+    "static/js/4.03c51b70.chunk.js.map": "/KidsApp-FrontEnd/static/js/4.03c51b70.chunk.js.map",
+    "static/css/5.a8209217.chunk.css": "/KidsApp-FrontEnd/static/css/5.a8209217.chunk.css",
+    "static/js/5.403496f4.chunk.js": "/KidsApp-FrontEnd/static/js/5.403496f4.chunk.js",
+    "static/js/5.403496f4.chunk.js.map": "/KidsApp-FrontEnd/static/js/5.403496f4.chunk.js.map",
+    "static/css/6.d9db44ee.chunk.css": "/KidsApp-FrontEnd/static/css/6.d9db44ee.chunk.css",
+    "static/js/6.f580aae5.chunk.js": "/KidsApp-FrontEnd/static/js/6.f580aae5.chunk.js",
+    "static/js/6.f580aae5.chunk.js.map": "/KidsApp-FrontEnd/static/js/6.f580aae5.chunk.js.map",
+    "index.html": "/KidsApp-FrontEnd/index.html",
+    "static/css/5.a8209217.chunk.css.map": "/KidsApp-FrontEnd/static/css/5.a8209217.chunk.css.map",
+    "static/css/6.d9db44ee.chunk.css.map": "/KidsApp-FrontEnd/static/css/6.d9db44ee.chunk.css.map",
+    "static/css/main.2ae47eeb.chunk.css.map": "/KidsApp-FrontEnd/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/0.5c3d800a.chunk.js.LICENSE.txt": "/KidsApp-FrontEnd/static/js/0.5c3d800a.chunk.js.LICENSE.txt",
+    "static/js/4.03c51b70.chunk.js.LICENSE.txt": "/KidsApp-FrontEnd/static/js/4.03c51b70.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16ae6967.js",
+    "static/js/4.03c51b70.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.1021128e.chunk.js"
+  ]
+}
