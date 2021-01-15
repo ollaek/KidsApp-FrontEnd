@@ -10,7 +10,7 @@ const Home = react.lazy(() => import("./home/Home"));
 const Character = react.lazy(() => import("./characterCreation/index"));
 
 const App = () => (
-  <Router>
+  <Router >
     <react.Suspense fallback={<div>Loading ...</div>}>
       <Switch>
         <Route exact path="/" component={Home} />
